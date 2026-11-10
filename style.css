@@ -1,0 +1,47 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background-color: #f4f4f4;
+    color: #333;
+    text-align: center;
+}
+
+h1 {
+    background-color: #202c3a;
+    color: white;
+    padding: 35px;
+    margin: 0;
+}
+
+nav {
+    background-color: #34495e;
+    padding: 15px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 15px;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: #f39c12;
+}
+
+h2 {
+    color: #202c3a;
+    margin-top: 30px;
+}
+
+p {
+    font-size: 17px;
+    line-height: 1.6;
+}
+
+ul {
+    display: inline-block;
+    text-align: left;
+    line-height: 2;
+}
